@@ -1,5 +1,5 @@
 # Bridge-puzzle
-Problem description:<br>
+Problem description:<br><br>
 A group of K persons (K > 1) want to cross a bridge from East to West during the
 night. The persons that are crossing the bridge must use a flashlight. There is only
 one flashlight. The bridge is very narrow and allows two persons to cross
